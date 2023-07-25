@@ -3,9 +3,9 @@ import { Telegraf } from "node-telegram-bot-api";
 import axios from "axios";
 
 const app = express();
-const botToken = "YOUR_TELEGRAM_BOT_TOKEN";
-const channelId = "YOUR_PRIVATE_CHANNEL_ID";
-const groupId = "YOUR_GROUP_ID";
+const botToken = "2024191416:AAHGMrJx77iRHC85ME6qONb_LSBq_QTaT-Q";
+const channelId = "-1001621902600";
+const groupId = "-100935534984";
 
 const bot = new Telegraf(botToken);
 
